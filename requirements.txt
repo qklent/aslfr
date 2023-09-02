@@ -1,0 +1,6 @@
+numpy
+pandas
+regex
+torch
+tqdm
+levenshtein
