@@ -20,6 +20,7 @@ My solution involved a combination of a 1D CNN and a Transformer, trained from s
 
 ## Score
   cv 0.8
+  
   lb 0.69
 
 ## Tried but not worked
